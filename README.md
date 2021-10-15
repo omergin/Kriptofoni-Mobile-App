@@ -1,4 +1,4 @@
-<a href="https://www.kriptofoni.com">Kriptofoni</a> mobil uygulaması.
+<a href="https://www.kriptofoni.com/bitcoin-haberleri">Bitcoin haberleri</a>, kripto para haberleri ve altcoin haberlerinin yer aldığı <a href="https://www.kriptofoni.com">Kriptofoni</a> mobil uygulaması.
 
 <!--
 **kriptofoni/Kriptofoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
