@@ -1,4 +1,4 @@
-Burada, <a href="https://www.kriptofoni.com/bitcoin-haberleri">Bitcoin haberleri</a>, kripto para haberleri ve altcoin haberlerinin yer aldığı <a href="https://www.kriptofoni.com">Kriptofoni</a>nin mobil uygulaması geliştirilmektedir.
+Burada, <a href="https://www.kriptofoni.com/bitcoin-haberleri">Bitcoin haberleri</a>, kripto para haberleri ve altcoin haberlerinin yer aldığı <a href="https://www.kriptofoni.com">Kriptofoni</a>'nin mobil uygulaması geliştirilmektedir.
 
 Kriptofoni Nedir?
 
