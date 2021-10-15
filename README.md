@@ -1,4 +1,10 @@
-<a href="https://www.kriptofoni.com/bitcoin-haberleri">Bitcoin haberleri</a>, kripto para haberleri ve altcoin haberlerinin yer aldığı <a href="https://www.kriptofoni.com">Kriptofoni</a> mobil uygulaması.
+Burada <a href="https://www.kriptofoni.com/bitcoin-haberleri">Bitcoin haberleri</a>, kripto para haberleri ve altcoin haberlerinin yer aldığı <a href="https://www.kriptofoni.com">Kriptofoni</a>nin mobil uygulaması geliştirilmektedir.
+
+Kriptofoni, 2020 yılında Kriptofoni Teknoloji ve Tic. Ltd. Şti. tarafından hayata geçirilmiş bir projedir. Dünya ve Türkiye gündeminde yer alan Bitcoin ve diğer kripto para haberlerini herkesin anlayacağı bir dil ile kullanıcılarına sunar. Sadece gerekli bilgileri vererek ziyaretçilerini kripto para dünyası hakkında bilgilendirmeyi amaç edinmiştir.
+
+Kriptofoni, tamamen tarafsız bir kripto para haber platformu olup, içeriklerini kendi yazar kadrosuyla üretmektedir. Ziyaretçilerinin ilgi duyduğu kripto para alanında makaleler ve videolar ile güncel içerikleri onlara ücretsiz olarak sunmaktadır.
+
+Kriptofoni ekibi ile iletişime geçmek için info@kriptofoni.com e-posta adresini kullanabilirsiniz.
 
 <!--
 **kriptofoni/Kriptofoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
