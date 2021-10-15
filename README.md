@@ -1,4 +1,6 @@
-Burada <a href="https://www.kriptofoni.com/bitcoin-haberleri">Bitcoin haberleri</a>, kripto para haberleri ve altcoin haberlerinin yer aldığı <a href="https://www.kriptofoni.com">Kriptofoni</a>nin mobil uygulaması geliştirilmektedir.
+Burada, <a href="https://www.kriptofoni.com/bitcoin-haberleri">Bitcoin haberleri</a>, kripto para haberleri ve altcoin haberlerinin yer aldığı <a href="https://www.kriptofoni.com">Kriptofoni</a>nin mobil uygulaması geliştirilmektedir.
+
+Kriptofoni Nedir?
 
 Kriptofoni, 2020 yılında Kriptofoni Teknoloji ve Tic. Ltd. Şti. tarafından hayata geçirilmiş bir projedir. Dünya ve Türkiye gündeminde yer alan Bitcoin ve diğer kripto para haberlerini herkesin anlayacağı bir dil ile kullanıcılarına sunar. Sadece gerekli bilgileri vererek ziyaretçilerini kripto para dünyası hakkında bilgilendirmeyi amaç edinmiştir.
 
